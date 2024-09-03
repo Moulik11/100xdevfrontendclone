@@ -291,3 +291,9 @@ i.fa-moon {
   border-radius: 20px;
   background-color: #4363d4;
 }
+
+.left-side {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
